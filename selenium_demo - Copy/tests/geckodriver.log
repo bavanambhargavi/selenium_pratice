@@ -1,0 +1,273 @@
+1674818375729	geckodriver	INFO	Listening on 127.0.0.1:61987
+1674818378845	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61988" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\bbavnam\\AppData\\Local\\Temp\\1\\rust_mozprofileX4P3HA"
+1674818381325	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1674818381332	Marionette	INFO	Listening on port 61997
+Read port: 61997
+WebDriver BiDi listening on ws://127.0.0.1:61988
+1674818381676	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\bbavnam\\AppData\\Local\\Temp\\1\\rust_mozprofileX4P3HA\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61988/devtools/browser/fd256f72-bfbb-4a55-b761-c6b2beec762a
+JavaScript warning: moz-extension://1811974b-1879-4bad-aa85-6c725b49091d/mcafee_wa_coreengine.js, line 1706: unreachable code after return statement
+JavaScript error: https://media.ethicalads.io/media/client/v1.4.0/ethicalads.min.js, line 1: Error: No ad placements found.
+JavaScript error: resource:///actors/FormValidationChild.sys.mjs, line 178: TypeError: this._element is null
+1674818385442	Marionette	INFO	Stopped listening on port 61997
+Dynamically enable window occlusion 1
+1674818450953	geckodriver	INFO	Listening on 127.0.0.1:62053
+1674818454059	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62054" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\bbavnam\\AppData\\Local\\Temp\\1\\rust_mozprofilem4G8B6"
+1674818454446	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1674818454453	Marionette	INFO	Listening on port 62063
+Read port: 62063
+WebDriver BiDi listening on ws://127.0.0.1:62054
+1674818454720	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\bbavnam\\AppData\\Local\\Temp\\1\\rust_mozprofilem4G8B6\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62054/devtools/browser/4405e498-ead3-4fc5-a65a-bd48c2f7c040
+JavaScript warning: moz-extension://c0e7ba54-ac5e-4668-a6d0-c872ea56b96c/mcafee_wa_coreengine.js, line 1706: unreachable code after return statement
+JavaScript error: https://media.ethicalads.io/media/client/v1.4.0/ethicalads.min.js, line 1: Error: No ad placements found.
+JavaScript error: resource:///actors/FormValidationChild.sys.mjs, line 178: TypeError: this._element is null
+1674818457882	Marionette	INFO	Stopped listening on port 62063
+Dynamically enable window occlusion 1
+[Parent 61020, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:777
+1674818491572	geckodriver	INFO	Listening on 127.0.0.1:62114
+1674818494680	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62115" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\bbavnam\\AppData\\Local\\Temp\\1\\rust_mozprofileYzqcEe"
+1674818495070	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1674818495076	Marionette	INFO	Listening on port 62122
+Read port: 62122
+WebDriver BiDi listening on ws://127.0.0.1:62115
+1674818495320	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\bbavnam\\AppData\\Local\\Temp\\1\\rust_mozprofileYzqcEe\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62115/devtools/browser/1e375a78-0eb7-4aac-9a47-2b686f1ba261
+JavaScript warning: moz-extension://dc6ffd47-583e-4c89-9c21-a11ce9805816/mcafee_wa_coreengine.js, line 1706: unreachable code after return statement
+JavaScript error: https://media.ethicalads.io/media/client/v1.4.0/ethicalads.min.js, line 1: Error: No ad placements found.
+JavaScript error: resource:///actors/FormValidationChild.sys.mjs, line 178: TypeError: this._element is null
+1674818498091	Marionette	INFO	Stopped listening on port 62122
+Dynamically enable window occlusion 1
+1674818563030	geckodriver	INFO	Listening on 127.0.0.1:62169
+1674818566078	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62170" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\bbavnam\\AppData\\Local\\Temp\\1\\rust_mozprofileDZLrkQ"
+1674818566460	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1674818566467	Marionette	INFO	Listening on port 62178
+Read port: 62178
+WebDriver BiDi listening on ws://127.0.0.1:62170
+1674818566744	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\bbavnam\\AppData\\Local\\Temp\\1\\rust_mozprofileDZLrkQ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62170/devtools/browser/e47f2bcf-163f-482c-9103-f8dc32a63f7f
+JavaScript warning: moz-extension://e37bca1b-f9be-41f4-acfc-c0382e2b632b/mcafee_wa_coreengine.js, line 1706: unreachable code after return statement
+JavaScript error: https://media.ethicalads.io/media/client/v1.4.0/ethicalads.min.js, line 1: Error: No ad placements found.
+JavaScript error: resource:///actors/FormValidationChild.sys.mjs, line 178: TypeError: this._element is null
+1674818569745	Marionette	INFO	Stopped listening on port 62178
+Dynamically enable window occlusion 1
+1674820028125	geckodriver	INFO	Listening on 127.0.0.1:63373
+1674820031250	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63374" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\bbavnam\\AppData\\Local\\Temp\\1\\rust_mozprofileqmHr8l"
+1674820031910	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1674820031914	Marionette	INFO	Listening on port 63384
+Read port: 63384
+WebDriver BiDi listening on ws://127.0.0.1:63374
+1674820032072	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\bbavnam\\AppData\\Local\\Temp\\1\\rust_mozprofileqmHr8l\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63374/devtools/browser/79dd362e-accf-4a40-9f06-f9b772a1467d
+JavaScript warning: moz-extension://26f51ce2-c8da-47aa-9b17-9cf5a7c0b3a4/mcafee_wa_coreengine.js, line 1706: unreachable code after return statement
+1674820037893	Marionette	INFO	Stopped listening on port 63384
+Dynamically enable window occlusion 1
+1674820051782	geckodriver	INFO	Listening on 127.0.0.1:63430
+1674820054858	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63431" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\bbavnam\\AppData\\Local\\Temp\\1\\rust_mozprofileoEif3x"
+1674820055168	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1674820055173	Marionette	INFO	Listening on port 63440
+Read port: 63440
+WebDriver BiDi listening on ws://127.0.0.1:63431
+1674820055294	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\bbavnam\\AppData\\Local\\Temp\\1\\rust_mozprofileoEif3x\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63431/devtools/browser/6c4aeb50-1c0c-49a5-be2b-c27cfd759d7c
+JavaScript warning: moz-extension://d9711dd5-f7b1-4802-8ce0-7114dee76fa3/mcafee_wa_coreengine.js, line 1706: unreachable code after return statement
+1674820057931	Marionette	INFO	Stopped listening on port 63440
+Dynamically enable window occlusion 1
+JavaScript error: , line 0: OperationError: Could not move temporary file(C:\Users\bbavnam\AppData\Local\Temp\1\rust_mozprofileoEif3x\sessionCheckpoints.json.tmp) to destination(C:\Users\bbavnam\AppData\Local\Temp\1\rust_mozprofileoEif3x\sessionCheckpoints.json)
+1674820102442	geckodriver	INFO	Listening on 127.0.0.1:63497
+1674820105526	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63498" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\bbavnam\\AppData\\Local\\Temp\\1\\rust_mozprofileJTpzM7"
+1674820105839	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1674820105844	Marionette	INFO	Listening on port 63505
+Read port: 63505
+WebDriver BiDi listening on ws://127.0.0.1:63498
+1674820105969	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\bbavnam\\AppData\\Local\\Temp\\1\\rust_mozprofileJTpzM7\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63498/devtools/browser/2e83258d-af4e-4b23-9e21-73314419a2cc
+JavaScript warning: moz-extension://9522796d-ecdc-40d7-9832-931462ecd421/mcafee_wa_coreengine.js, line 1706: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.w3schools.com."
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1674822516757	Marionette	INFO	Stopped listening on port 63505
+Dynamically enable window occlusion 1
+tFoundError("Could not open the file at C:\\Users\\bbavnam\\AppData\\Local\\Temp\\1\\rust_mozprofilem7NJUz\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64156/devtools/browser/73beb3b1-e1aa-434d-8be5-929d6bdba514
+JavaScript warning: moz-extension://d00b01fc-723b-4bd7-87d3-fc498fd73bc9/mcafee_wa_coreengine.js, line 1706: unreachable code after return statement
+1674821074404	Marionette	INFO	Stopped listening on port 64164
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1674821167535	geckodriver	INFO	Listening on 127.0.0.1:64256
+1674821170589	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64257" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\bbavnam\\AppData\\Local\\Temp\\1\\rust_mozprofileI5lOK9"
+1674821170896	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1674821170902	Marionette	INFO	Listening on port 64268
+Read port: 64268
+WebDriver BiDi listening on ws://127.0.0.1:64257
+1674821171027	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\bbavnam\\AppData\\Local\\Temp\\1\\rust_mozprofileI5lOK9\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64257/devtools/browser/1d74051e-a4a7-4c90-97a9-dd51a743a562
+JavaScript warning: moz-extension://499b3ba2-eb8f-460e-bf8b-0acfd3cea536/mcafee_wa_coreengine.js, line 1706: unreachable code after return statement
+1674822515294	Marionette	INFO	Stopped listening on port 64268
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+e-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\bbavnam\\AppData\\Local\\Temp\\1\\rust_mozprofileePCXTa"
+1674821224785	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1674821224790	Marionette	INFO	Listening on port 64338
+Read port: 64338
+WebDriver BiDi listening on ws://127.0.0.1:64330
+1674821224913	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\bbavnam\\AppData\\Local\\Temp\\1\\rust_mozprofileePCXTa\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64330/devtools/browser/38a38fac-b13a-4dce-9325-48fd01ecf1bc
+JavaScript warning: moz-extension://5ea74df5-23c4-4326-97cd-2da0705ca232/mcafee_wa_coreengine.js, line 1706: unreachable code after return statement
+1674822507999	Marionette	INFO	Stopped listening on port 64338
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+e-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\bbavnam\\AppData\\Local\\Temp\\1\\rust_mozprofileg2UAJM"
+1674821286108	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1674821286113	Marionette	INFO	Listening on port 64425
+Read port: 64425
+WebDriver BiDi listening on ws://127.0.0.1:64417
+1674821286241	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\bbavnam\\AppData\\Local\\Temp\\1\\rust_mozprofileg2UAJM\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64417/devtools/browser/01145938-0deb-4c0e-9833-ff5f3beeea9a
+JavaScript warning: moz-extension://8d8bb4b2-62a5-490e-b32e-2f22ef751ac1/mcafee_wa_coreengine.js, line 1706: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.w3schools.com."
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1674822510103	Marionette	INFO	Stopped listening on port 64425
+Dynamically enable window occlusion 1
+tFoundError("Could not open the file at C:\\Users\\bbavnam\\AppData\\Local\\Temp\\1\\rust_mozprofileY20pGX\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64505/devtools/browser/71d2ab20-b002-4db6-9f44-47bb19059094
+JavaScript warning: moz-extension://5ed1d2e6-f075-4161-b2e0-f9a205dc8db7/mcafee_wa_coreengine.js, line 1706: unreachable code after return statement
+1674822511925	Marionette	INFO	Stopped listening on port 64514
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+e-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\bbavnam\\AppData\\Local\\Temp\\1\\rust_mozprofileCuYVmE"
+1674821391494	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1674821391499	Marionette	INFO	Listening on port 64591
+Read port: 64591
+WebDriver BiDi listening on ws://127.0.0.1:64582
+1674821391623	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\bbavnam\\AppData\\Local\\Temp\\1\\rust_mozprofileCuYVmE\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64582/devtools/browser/4cb260f6-8abb-4be8-af61-2943fd5ede76
+JavaScript warning: moz-extension://1f96d544-8cbb-49dc-bd45-2329c5e58225/mcafee_wa_coreengine.js, line 1706: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.w3schools.com."
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 572: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1674822514018	Marionette	INFO	Stopped listening on port 64591
+Dynamically enable window occlusion 1
+1674822528500	geckodriver	INFO	Listening on 127.0.0.1:64977
+1674822531617	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64978" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\bbavnam\\AppData\\Local\\Temp\\1\\rust_mozprofileCG7rXt"
+1674822533122	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1674822533126	Marionette	INFO	Listening on port 64986
+Read port: 64986
+WebDriver BiDi listening on ws://127.0.0.1:64978
+1674822533308	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\bbavnam\\AppData\\Local\\Temp\\1\\rust_mozprofileCG7rXt\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64978/devtools/browser/b64858c8-a8a7-458b-b4a6-57c037628127
+JavaScript warning: moz-extension://d3fa85ff-8385-484b-91fe-f4cca2191abd/mcafee_wa_coreengine.js, line 1706: unreachable code after return statement
+Extension error: TypeError: supportedFeatures is undefined moz-extension://d3fa85ff-8385-484b-91fe-f4cca2191abd/mcafee_wa_contentplg.js 2704
+[[Exception stack
+_main/<@moz-extension://d3fa85ff-8385-484b-91fe-f4cca2191abd/mcafee_wa_contentplg.js:2704:17
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:633:13
+wrapPromise/</<@resource://gre/modules/ExtensionCommon.jsm:829:20
+withLastError@resource://gre/modules/ExtensionCommon.jsm:748:14
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:817:16
+]]
+Extension error: TypeError: supportedFeatures is undefined moz-extension://d3fa85ff-8385-484b-91fe-f4cca2191abd/mcafee_wa_contentplg.js 2704
+[[Exception stack
+_main/<@moz-extension://d3fa85ff-8385-484b-91fe-f4cca2191abd/mcafee_wa_contentplg.js:2704:17
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:633:13
+wrapPromise/</<@resource://gre/modules/ExtensionCommon.jsm:829:20
+withLastError@resource://gre/modules/ExtensionCommon.jsm:748:14
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:817:16
+]]
+Extension error: ReferenceError: ret is not defined moz-extension://d3fa85ff-8385-484b-91fe-f4cca2191abd/mcafee_wa_bkground.js 2879
+[[Exception stack
+mcafee_wa_legacynativemsgdispatcher.prototype.onBeforeNavigate@moz-extension://d3fa85ff-8385-484b-91fe-f4cca2191abd/mcafee_wa_bkground.js:2879:66
+onBeforeNavigate@moz-extension://d3fa85ff-8385-484b-91fe-f4cca2191abd/mcafee_wa_bkground.js:1211:51
+mcafee_wa_background.prototype.processActiveTab/<@moz-extension://d3fa85ff-8385-484b-91fe-f4cca2191abd/mcafee_wa_bkground.js:3008:27
+Current stack
+applySafeWithoutClone@resource://gre/modules/ExtensionCommon.jsm:633:13
+wrapPromise/<@resource://gre/modules/ExtensionCommon.jsm:809:18
+]]
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.w3schools.com."
+SourceActor threw an exception: [Exception... "Failed to open input source 'resource://gre/modules/ExtensionContent.jsm'"  nsresult: "0x805303f4 (<unknown>)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 676"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:676:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:517:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:446:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:410:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2154:35
+addAllSources@resource://devtools/server/actors/thread.js:1486:14
+watch@resource://devtools/server/actors/resources/sources.js:78:17
+watchResources@resource://devtools/server/actors/resources/index.js:302:19
+addSessionDataEntry@resource://devtools/server/actors/targets/session-data-processors/resources.js:11:21
+addSessionDataEntry@resource://devtools/server/actors/targets/target-actor-mixin.js:46:25
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:530:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs:439:21
+Line: 676, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 676: Failed to open input source 'resource://gre/modules/ExtensionContent.jsm'
+INFO	Listening on port 65260
+Read port: 65260
+WebDriver BiDi listening on ws://127.0.0.1:65251
+1674823906386	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\bbavnam\\AppData\\Local\\Temp\\1\\rust_mozprofile1QYSuX\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:65251/devtools/browser/53c41ac6-7932-4bfc-a225-4f1357bae75a
+JavaScript warning: moz-extension://e424eb1c-1d09-41b6-a057-8d1eaff63525/mcafee_wa_coreengine.js, line 1706: unreachable code after return statement
+1674823932974	Marionette	INFO	Stopped listening on port 65260
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1674824629432	geckodriver	INFO	Listening on 127.0.0.1:52220
+1674824632525	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52221" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\bbavnam\\AppData\\Local\\Temp\\1\\rust_mozprofileZKB2bF"
+1674824632987	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1674824632993	Marionette	INFO	Listening on port 52231
+Read port: 52231
+WebDriver BiDi listening on ws://127.0.0.1:52221
+1674824633152	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\bbavnam\\AppData\\Local\\Temp\\1\\rust_mozprofileZKB2bF\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52221/devtools/browser/5f38875b-fb9d-4e53-80a8-e624bbfaa6d0
+JavaScript warning: moz-extension://492d1020-aff2-461b-baa2-b3f0c5fdd004/mcafee_wa_coreengine.js, line 1706: unreachable code after return statement
+1674824640893	Marionette	INFO	Stopped listening on port 52231
+Dynamically enable window occlusion 1
+1674824682976	geckodriver	INFO	Listening on 127.0.0.1:52304
+1674824686040	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52305" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\bbavnam\\AppData\\Local\\Temp\\1\\rust_mozprofileSpAuEJ"
+1674824686386	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1674824686391	Marionette	INFO	Listening on port 52312
+Read port: 52312
+WebDriver BiDi listening on ws://127.0.0.1:52305
+1674824686536	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\bbavnam\\AppData\\Local\\Temp\\1\\rust_mozprofileSpAuEJ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52305/devtools/browser/02ed00b0-d3f7-4269-98e9-8192f744baeb
+JavaScript warning: moz-extension://8a9429f6-504c-4328-a8ec-1bded45d6508/mcafee_wa_coreengine.js, line 1706: unreachable code after return statement
+1674824693632	Marionette	INFO	Stopped listening on port 52312
+Dynamically enable window occlusion 1
